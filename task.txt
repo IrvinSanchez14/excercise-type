@@ -1,3 +1,14 @@
 1 - crear 2 rutas para mostrar screen:
     - Home
     - Order
+----------- 0 ------------- 0 ------------
+2 - crear ruta para mostrar en screen:
+    - createOrder
+3 - configurar API con la siguiente api de prueba
+    - https://jsonplaceholder.typicode.com/guide/
+    en la siguiente documentacion se mostrar los diferentes end-point
+    que se deberan de crear para poder hacer las tres operaciones basicas
+    GET, POST, PUT
+    - crear un archivo .ts donde se encuentres las funciones para poder llamar
+    la api (utilizas class para estas funciones)
+4 - en la vista order cargar a nivel de consola el GET de todos los datos de la API
