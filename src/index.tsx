@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Home from 'src/views/Home'
 import reportWebVitals from './reportWebVitals'
+import App from './views/route/App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <App />
   </React.StrictMode>,
   document.getElementById('root'),
 )
